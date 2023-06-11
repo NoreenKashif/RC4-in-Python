@@ -1,8 +1,3 @@
-#GROUP ASSIGNMENT
-#NAME: HINA ALI BHATTI      ROLL No.: BSEF20M009
-#NAME: NOREEN               ROLL No.: BSEF20M036
-
-
 # Python3 program for the above approach
 # of RC4 algorithm
 
